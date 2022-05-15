@@ -1,0 +1,9 @@
+Run the exe file to run game -> Poker.exe
+
+Run game as administrator	
+
+To run the code, open the solution file -> Project.sln
+
+If icon file gives error when running via Project.sln, delete resource.h and resource files before compiling the code
+
+Do not edit the game files
