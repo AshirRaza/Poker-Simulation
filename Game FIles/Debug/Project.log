@@ -1,0 +1,4 @@
+﻿  Poker.cpp
+C:\Users\hassa\source\repos\Project_new\Poker.cpp(6,33): warning C4829: Possibly incorrect parameters to function main. Consider 'int main(Platform::Array<Platform::String^>^ argv)'
+  Poker.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  Project.vcxproj -> C:\Users\hassa\source\repos\Project_new\Debug\Project.exe

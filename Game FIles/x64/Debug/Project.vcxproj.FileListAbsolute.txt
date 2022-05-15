@@ -1,0 +1,68 @@
+C:\Users\cv\Downloads\Project_new - Copy\x64\Debug\Project.vcxprojAssemblyReference.cache
+C:\Users\cv\Downloads\Project_new - Copy\x64\Debug\Project.Poker.resources
+C:\Users\cv\Downloads\Project_new - Copy\x64\Debug\Project.vcxproj.GenerateResource.cache
+C:\Users\cv\Downloads\Project_new - Copy\x64\Debug\Project.exe
+C:\Users\hassa\Downloads\Project_Semi-Finished\x64\Debug\Project.vcxprojAssemblyReference.cache
+C:\Users\hassa\Downloads\Project_Semi-Finished\x64\Debug\Project.Poker.resources
+C:\Users\hassa\Downloads\Project_Semi-Finished\x64\Debug\Project.vcxproj.GenerateResource.cache
+C:\Users\hassa\Downloads\Project_Semi-Finished\x64\Debug\Project.exe
+C:\Users\hassa\Downloads\Project_Semi-Finished\x64\Debug\Project.pdb
+C:\Users\hassa\Downloads\Project_Semi_Semi-Finished\x64\Debug\Project.vcxprojAssemblyReference.cache
+C:\Users\hassa\Downloads\Project_Semi_Semi-Finished\x64\Debug\Project.Game.resources
+C:\Users\hassa\Downloads\Project_Semi_Semi-Finished\x64\Debug\Project.Poker.resources
+C:\Users\hassa\Downloads\Project_Semi_Semi-Finished\x64\Debug\Project.vcxproj.GenerateResource.cache
+C:\Users\hassa\Downloads\Project_Semi_Semi-Finished\x64\Debug\Project.exe
+C:\Users\hassa\Downloads\Project_Semi_Semi-Finished\x64\Debug\Project.pdb
+C:\Users\hassa\Downloads\Project_Semi_Semi_Semi-Finished - Copy\x64\Debug\Project.vcxprojAssemblyReference.cache
+C:\Users\hassa\Downloads\Project_Semi_Semi_Semi-Finished - Copy\x64\Debug\Project.Game.resources
+C:\Users\hassa\Downloads\Project_Semi_Semi_Semi-Finished - Copy\x64\Debug\Project.Poker.resources
+C:\Users\hassa\Downloads\Project_Semi_Semi_Semi-Finished - Copy\x64\Debug\Project.vcxproj.GenerateResource.cache
+C:\Users\hassa\Downloads\Project_Semi_Semi_Semi-Finished - Copy\x64\Debug\Project.exe
+C:\Users\hassa\Downloads\Project_Semi_Semi_Semi-Finished - Copy\x64\Debug\Project.pdb
+C:\Users\cv\Downloads\Project_Semi_Semi_Semi-Finished\Project_Semi_Semi_Semi-Finished\Project_Semi_Semi_Semi-Finished - Copy\x64\Debug\Project.vcxprojAssemblyReference.cache
+C:\Users\cv\Downloads\Project_Semi_Semi_Semi-Finished\Project_Semi_Semi_Semi-Finished\Project_Semi_Semi_Semi-Finished - Copy\x64\Debug\Project.Game.resources
+C:\Users\cv\Downloads\Project_Semi_Semi_Semi-Finished\Project_Semi_Semi_Semi-Finished\Project_Semi_Semi_Semi-Finished - Copy\x64\Debug\Project.Poker.resources
+C:\Users\cv\Downloads\Project_Semi_Semi_Semi-Finished\Project_Semi_Semi_Semi-Finished\Project_Semi_Semi_Semi-Finished - Copy\x64\Debug\Project.vcxproj.GenerateResource.cache
+C:\Users\cv\Downloads\Project_Semi_Semi_Semi-Finished\Project_Semi_Semi_Semi-Finished\Project_Semi_Semi_Semi-Finished - Copy\x64\Debug\Project.exe
+C:\Users\hassa\Downloads\New folder\Project_Semi_Semi_Semi-Finished\Project_Semi_Semi_Semi-Finished - Copy\x64\Debug\Project.vcxprojAssemblyReference.cache
+C:\Users\hassa\Downloads\New folder\Project_Semi_Semi_Semi-Finished\Project_Semi_Semi_Semi-Finished - Copy\x64\Debug\Project.Game.resources
+C:\Users\hassa\Downloads\New folder\Project_Semi_Semi_Semi-Finished\Project_Semi_Semi_Semi-Finished - Copy\x64\Debug\Project.Poker.resources
+C:\Users\hassa\Downloads\New folder\Project_Semi_Semi_Semi-Finished\Project_Semi_Semi_Semi-Finished - Copy\x64\Debug\Project.vcxproj.GenerateResource.cache
+C:\Users\hassa\Downloads\New folder\Project_Semi_Semi_Semi-Finished\Project_Semi_Semi_Semi-Finished - Copy\x64\Debug\Project.exe
+C:\Users\hassa\Downloads\New folder\Project_Semi_Semi_Semi-Finished\Project_Semi_Semi_Semi-Finished - Copy\x64\Debug\Project.pdb
+C:\Users\hassa\Downloads\Project_Beta\Game FIles\x64\Debug\Project.vcxprojAssemblyReference.cache
+C:\Users\hassa\Downloads\Project_Beta\Game FIles\x64\Debug\Project.Game.resources
+C:\Users\hassa\Downloads\Project_Beta\Game FIles\x64\Debug\Project.Poker.resources
+C:\Users\hassa\Downloads\Project_Beta\Game FIles\x64\Debug\Project.vcxproj.GenerateResource.cache
+C:\Users\hassa\Downloads\Project_Beta\Game FIles\x64\Debug\Project.exe
+C:\Users\hassa\Downloads\Project_Beta\Game FIles\x64\Debug\Project.pdb
+C:\Users\hassa\Downloads\Project_Beta2\Project_Beta\Game FIles\x64\Debug\Project.vcxprojAssemblyReference.cache
+C:\Users\hassa\Downloads\Project_Beta2\Project_Beta\Game FIles\x64\Debug\Project.Game.resources
+C:\Users\hassa\Downloads\Project_Beta2\Project_Beta\Game FIles\x64\Debug\Project.Poker.resources
+C:\Users\hassa\Downloads\Project_Beta2\Project_Beta\Game FIles\x64\Debug\Project.vcxproj.GenerateResource.cache
+C:\Users\hassa\Downloads\Project_Beta2\Project_Beta\Game FIles\x64\Debug\Project.exe
+C:\Users\hassa\Downloads\Project_Beta2\Project_Beta\Game FIles\x64\Debug\Project.pdb
+C:\Users\hassa\OneDrive - National University of Sciences & Technology\Desktop\Project_FInal\Project_Beta\Project_Beta\Game FIles\x64\Debug\Project.vcxprojAssemblyReference.cache
+C:\Users\hassa\OneDrive - National University of Sciences & Technology\Desktop\Project_FInal\Project_Beta\Project_Beta\Game FIles\x64\Debug\Project.Game.resources
+C:\Users\hassa\OneDrive - National University of Sciences & Technology\Desktop\Project_FInal\Project_Beta\Project_Beta\Game FIles\x64\Debug\Project.Poker.resources
+C:\Users\hassa\OneDrive - National University of Sciences & Technology\Desktop\Project_FInal\Project_Beta\Project_Beta\Game FIles\x64\Debug\Project.vcxproj.GenerateResource.cache
+C:\Users\hassa\OneDrive - National University of Sciences & Technology\Desktop\Project_FInal\Project_Beta\Project_Beta\Game FIles\x64\Debug\Project.exe
+C:\Users\hassa\OneDrive - National University of Sciences & Technology\Desktop\Project_FInal\Project_Beta\Project_Beta\Game FIles\x64\Debug\Project.pdb
+C:\Users\hassa\OneDrive - National University of Sciences & Technology\Desktop\Project_FInal\Game FIles\x64\Debug\Project.vcxprojAssemblyReference.cache
+C:\Users\hassa\OneDrive - National University of Sciences & Technology\Desktop\Project_FInal\Game FIles\x64\Debug\Project.Game.resources
+C:\Users\hassa\OneDrive - National University of Sciences & Technology\Desktop\Project_FInal\Game FIles\x64\Debug\Project.Poker.resources
+C:\Users\hassa\OneDrive - National University of Sciences & Technology\Desktop\Project_FInal\Game FIles\x64\Debug\Project.vcxproj.GenerateResource.cache
+C:\Users\hassa\OneDrive - National University of Sciences & Technology\Desktop\Project_FInal\Game FIles\x64\Debug\Project.exe
+C:\Users\hassa\OneDrive - National University of Sciences & Technology\Desktop\Project_FInal\Game FIles\x64\Debug\Project.pdb
+C:\Users\hassa\OneDrive - National University of Sciences & Technology\Desktop\Project_Finalized\Game FIles\x64\Debug\Project.vcxprojAssemblyReference.cache
+C:\Users\hassa\OneDrive - National University of Sciences & Technology\Desktop\Project_Finalized\Game FIles\x64\Debug\Project.Game.resources
+C:\Users\hassa\OneDrive - National University of Sciences & Technology\Desktop\Project_Finalized\Game FIles\x64\Debug\Project.Poker.resources
+C:\Users\hassa\OneDrive - National University of Sciences & Technology\Desktop\Project_Finalized\Game FIles\x64\Debug\Project.vcxproj.GenerateResource.cache
+C:\Users\hassa\OneDrive - National University of Sciences & Technology\Desktop\Project_Finalized\Game FIles\x64\Debug\Project.exe
+C:\Users\hassa\OneDrive - National University of Sciences & Technology\Desktop\Project_Finalized\Game FIles\x64\Debug\Project.pdb
+C:\Users\hassa\OneDrive - National University of Sciences & Technology\Desktop\Poker\Game FIles\x64\Debug\Project.vcxprojAssemblyReference.cache
+C:\Users\hassa\OneDrive - National University of Sciences & Technology\Desktop\Poker\Game FIles\x64\Debug\Project.Game.resources
+C:\Users\hassa\OneDrive - National University of Sciences & Technology\Desktop\Poker\Game FIles\x64\Debug\Project.Poker.resources
+C:\Users\hassa\OneDrive - National University of Sciences & Technology\Desktop\Poker\Game FIles\x64\Debug\Project.vcxproj.GenerateResource.cache
+C:\Users\hassa\OneDrive - National University of Sciences & Technology\Desktop\Poker\Game FIles\x64\Debug\Project.exe
+C:\Users\hassa\OneDrive - National University of Sciences & Technology\Desktop\Poker\Game FIles\x64\Debug\Project.pdb

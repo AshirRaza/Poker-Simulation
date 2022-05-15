@@ -1,0 +1,11 @@
+﻿  Poker.cpp
+C:\Users\hassa\OneDrive - National University of Sciences & Technology\Desktop\Poker\Game FIles\Card.h(28,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\hassa\OneDrive - National University of Sciences & Technology\Desktop\Poker\Game FIles\Card.h(39,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\hassa\OneDrive - National University of Sciences & Technology\Desktop\Poker\Game FIles\Game.h(36,14): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\hassa\OneDrive - National University of Sciences & Technology\Desktop\Poker\Game FIles\Game.h(641,23): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\hassa\OneDrive - National University of Sciences & Technology\Desktop\Poker\Game FIles\Game.h(654,23): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\hassa\OneDrive - National University of Sciences & Technology\Desktop\Poker\Game FIles\Poker.h(1870,22): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\hassa\OneDrive - National University of Sciences & Technology\Desktop\Poker\Game FIles\Poker.cpp(6,33): warning C4829: Possibly incorrect parameters to function main. Consider 'int main(Platform::Array<Platform::String^>^ argv)'
+C:\Users\hassa\OneDrive - National University of Sciences & Technology\Desktop\Poker\Game FIles\Card.h(208): warning C4715: 'Card::getcard': not all control paths return a value
+  Poker.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  Project.vcxproj -> C:\Users\hassa\OneDrive - National University of Sciences & Technology\Desktop\Poker\Game FIles\x64\Debug\Project.exe
